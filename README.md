@@ -9,9 +9,9 @@
 | Dataset ID | `348388` |
 | Location | Dallas-Fort Worth-Arlington, TX |
 | Category | Restaurants |
-| Full dataset size | 47 records |
-| Free sample size | 4 records (8.51%) |
-| Last export | 2026-04-08T01:26:41.118569+00:00 |
+| Full dataset size | 42 records |
+| Free sample size | 4 records (9.52%) |
+| Last export | 2026-04-15T06:56:50.278031+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/white-space-finder-in-dallas-fort-worth-arlington-metro-texas-us-sample-348388/releases/download/sample-latest/beamstation_348388_food_and_drink-us-dallasfortwortharlingtontx_SAMPLE_DIST.csv) |
 
 ## What is in this sample
