@@ -1,6 +1,6 @@
 # White Space Finder in Dallas-Fort Worth-Arlington (Metro), Texas, US
 
-> Free BeamStation sample export with 4 rows and masked direct-contact fields.
+> Free BeamStation sample export with 3 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `348388` |
 | Location | Dallas-Fort Worth-Arlington, TX |
 | Category | Restaurants |
-| Full dataset size | 42 records |
-| Free sample size | 4 records (9.52%) |
-| Last export | 2026-04-15T06:56:50.278031+00:00 |
+| Full dataset size | 36 records |
+| Free sample size | 3 records (8.33%) |
+| Last export | 2026-04-22T13:12:20.210015+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/white-space-finder-in-dallas-fort-worth-arlington-metro-texas-us-sample-348388/releases/download/sample-latest/beamstation_348388_food_and_drink-us-dallasfortwortharlingtontx_SAMPLE_DIST.csv) |
 
 ## What is in this sample
