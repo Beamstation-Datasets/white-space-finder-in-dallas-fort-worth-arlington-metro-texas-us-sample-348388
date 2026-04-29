@@ -1,12 +1,12 @@
 {
-  "export_job_id": "3d3e4b50-8447-466f-86b7-fa1248a78eee",
+  "export_job_id": "ec5a7477-3f8c-4fb7-9af4-bd9e7ca6e241",
   "id_short": 348388,
-  "published_at": "2026-04-22T19:36:04Z",
+  "published_at": "2026-04-29T19:23:38Z",
   "repo_name": "white-space-finder-in-dallas-fort-worth-arlington-metro-texas-us-sample-348388",
   "sample_asset_name": "beamstation_348388_food_and_drink-us-dallasfortwortharlingtontx_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/348388/beamstation_348388_food_and_drink-us-dallasfortwortharlingtontx_SAMPLE_DIST.csv",
-  "sample_records": 3,
-  "sample_sha256": "3a89adcf2dd41ff67473555643f96288d8e19495e4a7af1693b3e15dd1b926d5",
-  "sample_size_bytes": 27428,
-  "total_records": 36
+  "sample_records": 5,
+  "sample_sha256": "0bdea1f53ea6ef5c1dfb0657deef4f621ae3eb4ac5eb03b0ca0828f6c6742ffe",
+  "sample_size_bytes": 32018,
+  "total_records": 56
 }
